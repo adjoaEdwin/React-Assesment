@@ -18,7 +18,7 @@ const SearchBar: React.FC<RouteComponentProps> = props => {
 
     setValue("");
 
-    // navigate("/");
+    navigate("/");
   };
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
@@ -41,16 +41,10 @@ const SearchBar: React.FC<RouteComponentProps> = props => {
         </label>
         <div style={{ marginBottom: 20 }}></div>
         <div style={{ marginBottom: 20 }}></div>
-        <Button
-          htmlType="submit"
-          type="primary"
-          size="large"
-          style={{ alignContent: "center" }}
-        >
+        <Button htmlType="submit" type="primary" size="large">
           Submit
         </Button>
       </Form>
-      <p>{data}</p>
     </div>
   );
 };
