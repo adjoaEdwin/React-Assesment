@@ -1,4 +1,4 @@
-## Tooos
+## Todos
 
 This document defines the functionality for the Todos project.
 
