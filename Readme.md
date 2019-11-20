@@ -1,6 +1,6 @@
 ## Tooos
 
-This document defines the functionality for the Todos project. T
+This document defines the functionality for the Todos project.
 
 #### Installation
 
@@ -16,7 +16,7 @@ NB: Make sure you have Nodejs, Parcel, and Npm or Yarn as well as typescript ins
 
 You can now see your new app running on `localhost:1234`.
 
-When you get errors specific to Cocoapods, try the following in the root of the project directory:
+When you get any errors, try the following in the root of the project directory:
 
 1. Kill the app
 
