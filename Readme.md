@@ -24,4 +24,4 @@ When you get any errors, try the following in the root of the project directory:
 
 3. Run yarn or npm install
 
-4. Run yarn dev or nom run dev
+4. Run yarn dev or nom run dev.
